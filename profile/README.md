@@ -481,17 +481,17 @@ User dengan role **Sales** memiliki akses terbatas:
 
 | ID           | Nama   | Institusi   |
 | ------------ | ------ | ----------- |
-| MC129D5Y1944 | [Nama] | [Institusi] |
-| MC129D5X0173 | [Nama] | [Institusi] |
+| M004D5Y1135 | Mohamad Azra Muntaha | Institut Teknologi Sepuluh November |
+| M004D5Y1974 | Yendra Wijayanto | Institut Teknologi Sepuluh November |
 
 
 ### Frontend & Backend Team
 
 | ID           | Nama   | Institusi   |
 | ------------ | ------ | ----------- |
-| FC129D5Y1933 | Ahmad Faris Al Aziz | Institut Pertanian Bogor |
-| FC211D5Y1095 | [Nama] | [Institusi] |
-| FC229D5Y0897 | [Nama] | [Institusi] |
+| R001D5Y0088 | Ahmad Faris Al Aziz | Institut Pertanian Bogor |
+| R297D5Y1611 | Rafi Pradipa Adriano | UPN Yogyakarta |
+| R229D5Y1036 | M. Rivqi Al Varras | Universitas Soedirman |
 
 ---
 
@@ -508,5 +508,5 @@ Untuk pertanyaan atau bantuan lebih lanjut, silakan hubungi tim pengembang atau 
 ---
 
 <p align="center">
-  <a href="https://leadscoring.example.com">www.leadscoring.example.com</a>
+  <a href="https://frontend-leadscoring.vercel.app/">Klik untuk mengunjungi web!!</a>
 </p>
