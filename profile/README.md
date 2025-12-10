@@ -141,7 +141,7 @@ Fitur ini hanya dapat diakses oleh user dengan role **Admin**. User dengan role 
 
 Buka browser Anda dan akses URL platform Lead Scoring Portal. Anda akan melihat halaman login seperti gambar di bawah ini.
 
-![Halaman Login - Form login dengan field email dan password](profileLogin.svg)
+![Halaman Login - Form login dengan field email dan password](assets/profileLogin.png)
 
 #### Langkah 2: Masukkan Kredensial
 
