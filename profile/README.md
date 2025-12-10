@@ -174,7 +174,7 @@ Setelah memasukkan kredensial, klik tombol "Login" untuk masuk ke dashboard.
 
 Setelah login, klik menu **"Lead List"** di sidebar kiri untuk mengakses halaman manajemen leads.
 
-![Halaman Lead List - Tampilan daftar leads dengan filter dan search bar](profileLeadList.svg)
+![Halaman Lead List - Tampilan daftar leads dengan filter dan search bar](assets/profileLeadList.png)
 
 #### Langkah 2: Mencari Leads
 
@@ -210,7 +210,7 @@ Gunakan **tab filter** di bawah search bar:
 4. Hasil akan otomatis ter-update
 5. Klik **"Clear Filters"** untuk mereset
 
-![Panel Advanced Filters - Tampilan filter lanjutan dengan berbagai opsi](profileAdvancedFilters.svg)
+![Panel Advanced Filters - Tampilan filter lanjutan dengan berbagai opsi](assets/profileAdvancedFilters.png)
 
 #### Langkah 5: Menambah Lead Baru
 
@@ -229,7 +229,7 @@ Gunakan **tab filter** di bawah search bar:
 4. Klik **"Save"** untuk menyimpan
 5. Sistem akan otomatis melakukan prediksi untuk customer baru
 
-![Form Tambah Customer - Modal form untuk menambah customer baru](profileAddCustomer.svg)
+![Form Tambah Customer - Modal form untuk menambah customer baru](assets/profileAddCustomer.png)
 
 #### Langkah 6: Melihat Detail Lead
 
@@ -244,7 +244,7 @@ Gunakan **tab filter** di bawah search bar:
    - **Delete** customer
    - **Predict** ulang untuk customer ini
 
-![Modal Detail Lead - Tampilan detail lengkap customer dengan skor prediksi](profileLeadDetail.svg)
+![Modal Detail Lead - Tampilan detail lengkap customer dengan skor prediksi](assets/profileLeadDetail.png)
 
 #### Langkah 7: Batch Predict
 
@@ -260,8 +260,6 @@ Gunakan **tab filter** di bawah search bar:
 #### Langkah 1: Akses Dashboard
 
 Setelah login, Anda akan langsung diarahkan ke halaman Dashboard. Atau klik menu **"Dashboard"** di sidebar.
-
-![Halaman Dashboard - Overview metrics dan top priority leads](profileDashboard.svg)
 
 #### Langkah 2: Memahami Metrik
 
@@ -293,7 +291,7 @@ Klik menu **"Analytics"** di sidebar untuk melihat analitik prediksi yang lebih 
 - Coverage statistics
 - Visual charts
 
-![Halaman Analytics - Statistik prediksi dengan visualisasi chart](profileAnalytics.svg)
+![Halaman Analytics - Statistik prediksi dengan visualisasi chart](assets/profileAnalytics.png)
 
 ---
 
@@ -344,7 +342,7 @@ Jane Smith,45,management,single,tertiary,false,false,false,telephone,jun,fri,1,9
    - Menyimpan data yang valid ke database
    - Otomatis melakukan prediksi untuk customer baru
 
-![Modal Upload CSV - Tampilan upload CSV dengan drag & drop](profileCSVUpload.svg)
+![Modal Upload CSV - Tampilan upload CSV dengan drag & drop](assets/profileCSVUpload.png)
 
 #### Langkah 4: Memeriksa Hasil Upload
 
