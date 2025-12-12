@@ -1,6 +1,7 @@
-# Lead Scoring Portal - Panduan Pengguna
+# PredictLead
+Predictive Lead Scoring Portal for Banking
 
-![Lead Scoring Logo](profilelogo_leadscoring.svg)
+![Lead Scoring Logo](logo.png)
 
 **Platform Prediksi Leads Berbasis AI untuk Industri Perbankan**
 
