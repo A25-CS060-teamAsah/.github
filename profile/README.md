@@ -26,9 +26,9 @@ Maksimalkan efisiensi tim sales dengan fokus pada leads berpotensi tinggi menggu
 
 ---
 
-## 💡 Tentang Lead Scoring Portal
+## 💡 Tentang PredictLead
 
-Lead Scoring Portal adalah platform berbasis web yang menggunakan teknologi Machine Learning (ML) untuk memprediksi probabilitas nasabah bank berlangganan produk deposito berjangka. Platform ini membantu tim sales mengidentifikasi dan memprioritaskan leads dengan potensi tinggi, sehingga meningkatkan efisiensi dan conversion rate.
+PredictLead adalah platform berbasis web yang menggunakan teknologi Machine Learning (ML) untuk memprediksi probabilitas nasabah bank berlangganan produk deposito berjangka. Platform ini membantu tim sales mengidentifikasi dan memprioritaskan leads dengan potensi tinggi, sehingga meningkatkan efisiensi dan conversion rate.
 
 ### Manfaat Utama
 
