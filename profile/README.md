@@ -1,6 +1,4 @@
 # PredictLead
-Predictive Lead Scoring Portal for Banking
-
 ![Lead Scoring Logo](assets/logo.png)
 
 **Platform Prediksi Leads Berbasis AI untuk Industri Perbankan**
