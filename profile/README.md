@@ -492,7 +492,7 @@ User dengan role **Sales** memiliki akses terbatas:
 | ------------ | ------ | ----------- |
 | R001D5Y0088 | Ahmad Faris Al Aziz | Institut Pertanian Bogor |
 | R297D5Y1611 | Rafi Pradipa Adriano | UPN Yogyakarta |
-| R229D5Y1036 | M. Rivqi Al Varras | Universitas Soedirman |
+| R229D5Y1036 | M. Rivqi Al Varras | Universitas Jenderal Soedirman |
 
 ---
 
